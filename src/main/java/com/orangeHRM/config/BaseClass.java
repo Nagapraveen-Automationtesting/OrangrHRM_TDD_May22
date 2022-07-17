@@ -24,7 +24,7 @@ public class BaseClass {
 
 	@BeforeSuite
 	public void beforeSuite() {
-
+		System.out.println();
 	}
 
 	@BeforeMethod
