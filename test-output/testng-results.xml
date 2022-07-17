@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78447" started-at="2022-07-16T17:41:16Z" finished-at="2022-07-16T17:42:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78447" started-at="2022-07-16T17:41:16Z" finished-at="2022-07-16T17:42:34Z">
+      <class name="com.orangeHRM.testcases.TC01_LoginFunctionality">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.orangeHRM.testcases.TC01_LoginFunctionality@dc24521]" name="beforeSuite" is-config="true" duration-ms="26" started-at="2022-07-16T23:11:16Z" finished-at="2022-07-16T23:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.orangeHRM.testcases.TC01_LoginFunctionality@dc24521]" name="beforeMethod" is-config="true" duration-ms="16200" started-at="2022-07-16T23:11:16Z" finished-at="2022-07-16T23:11:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.orangeHRM.testcases.TC01_LoginFunctionality.validateLoginFunctinality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateLoginFunctinality()[pri:0, instance:com.orangeHRM.testcases.TC01_LoginFunctionality@dc24521]" name="validateLoginFunctinality" duration-ms="17782" started-at="2022-07-16T23:11:32Z" finished-at="2022-07-16T23:11:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunctinality -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.orangeHRM.testcases.TC01_LoginFunctionality@dc24521]" name="afterMethod" is-config="true" duration-ms="3911" started-at="2022-07-16T23:11:50Z" finished-at="2022-07-16T23:11:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.orangeHRM.testcases.TC01_LoginFunctionality@dc24521]" name="afterSuite" is-config="true" duration-ms="0" started-at="2022-07-16T23:12:34Z" finished-at="2022-07-16T23:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.orangeHRM.testcases.TC01_LoginFunctionality -->
+      <class name="com.orangeHRM.testcases.TC02_AddEmployee">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.orangeHRM.testcases.TC02_AddEmployee@10bdf5e5]" name="beforeMethod" is-config="true" duration-ms="9955" started-at="2022-07-16T23:11:54Z" finished-at="2022-07-16T23:12:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.orangeHRM.testcases.TC02_AddEmployee.addEmployee()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addEmployee()[pri:0, instance:com.orangeHRM.testcases.TC02_AddEmployee@10bdf5e5]" name="addEmployee" duration-ms="29055" started-at="2022-07-16T23:12:04Z" finished-at="2022-07-16T23:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.orangeHRM.testcases.TC02_AddEmployee@10bdf5e5]" name="afterMethod" is-config="true" duration-ms="1444" started-at="2022-07-16T23:12:33Z" finished-at="2022-07-16T23:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.orangeHRM.testcases.TC02_AddEmployee -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
